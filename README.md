@@ -10,10 +10,6 @@ Qb is an HTML / JavaScript / webGL cube simulator that renders an interactable c
 
 4. navigatable camera
 
-# Wireframe
-
-![Image of Silica](https://i.imgur.com/mPsutv4.png)
-
 # Architecture and Technologies
 
 Qb will utilize the following technologies: 
