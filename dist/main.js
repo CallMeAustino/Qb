@@ -193,18 +193,6 @@ function findxy(res, e) {
   }
 }
 
-document.getElementById("water").addEventListener("click", function () {
-  return material("blue");
-});
-document.getElementById("wall").addEventListener("click", function () {
-  return material("black");
-});
-document.getElementById("silica").addEventListener("click", function () {
-  return material("yellow");
-});
-document.getElementById("void").addEventListener("click", function () {
-  return material("white");
-});
 initialize();
 
 /***/ })
